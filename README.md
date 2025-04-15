@@ -2,7 +2,7 @@
 
 🧠 A preliminary foundational release for a structural model of existence.
 
-📘 Author: Yi ∙ GPT
+📘 Author: Yi and GPT-4o
 📅 Released: April 2025
 
 ## Overview
